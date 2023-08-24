@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">login</string>
+    <string name="name">Name</string>
+    <string name="entre_com_o_nome_do_usu_rio">entre com o nome do usuário</string>
+    <string name="entre_com_o_a_senha_do_usu_rio">entre com o a senha do usuário</string>
+</resources>
